@@ -30,7 +30,13 @@ From what I read on the tutorial, this page is using the Jekyll platform. Most w
 Here is what the main page looks like today, in the year of our lord 2020. This screenshot _will change_:
 
 ![Screenshot of the main page](https://i.ibb.co/hf5nhmM/Annotation-2020-01-06-141745.png) 
+
 ![Screenshot of the main page version 1](https://i.ibb.co/RBddSGB/Screen-Shot-2020-01-12-at-11-43-01-AM.png)
+
+Illustration 1 | Illustration 2
+------------ | -------------
+![Screenshot of the main page](https://i.ibb.co/hf5nhmM/Annotation-2020-01-06-141745.png) | ![Screenshot of the main page version 1](https://i.ibb.co/RBddSGB/Screen-Shot-2020-01-12-at-11-43-01-AM.png)
+
 
 ## :mag_right: Scope of functionalities
 
