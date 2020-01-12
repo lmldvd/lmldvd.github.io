@@ -11,6 +11,7 @@
   color: secondary
 
 - name: Video Editing
+  percentage: 50
   color: light
 
 - name: English/Spanish Translations
@@ -18,5 +19,5 @@
   color: dark
 
 - name: 2D Animation
-  percentage:
+  percentage: 50
   color: light

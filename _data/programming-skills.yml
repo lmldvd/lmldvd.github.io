@@ -3,12 +3,13 @@
   color: success
 
 - name: Javascript
-  color: info
+  percentage: 5
+  color: light
 
 - name: GitHub
   percentage: 70
   color: dark
 
 - name: Jekyll
-  percentage: 70
-  color: dark
+  percentage: 5
+  color: light

@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : lmldvd.github.io
+title               : Lucienne Marie
 description         : >-                               # >- means to ignore newlines until "url:"
                       "Hello! :space_invader: Welcome to
                       my portfolio"
@@ -25,23 +25,23 @@ nav_exclude:                        # Pages with the following paths will be exc
 
 ### Author Info ###
 author:
-  name              : lmldvd
-  image             : https://cdn.pixabay.com/photo/2019/10/10/19/59/cat-4540441_1280.jpg
-  behance           : your_username
+  name              : Lucienne M.
+  image             : https://i.postimg.cc/59XQg3hx/background-pic.jpg
+  behance           : luciennepixelunt
 # dribbble          : your_username
   email             : lucienne@pixelunt.com
-  facebook          : your_username
+# facebook          : your_username
   github            : lmldvd
 # gitlab            : your_username
 # instagram         : your_username
-  linkedin          : your_username
-  medium            : your_username
+# linkedin          : your_username
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
   codepen           : lmldvd
