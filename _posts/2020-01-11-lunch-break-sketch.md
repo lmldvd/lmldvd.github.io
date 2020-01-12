@@ -8,7 +8,7 @@ description: Everyday I will practice drawing on paper. Usually pencils or ink p
 
 Source: [Link](/images/lion_sketch.png)
 
-[Image](/images/lion_sketch.png)
+[Image]("/images/lion_sketch.png")
 
 
 ## 1. Information about the drawing
@@ -19,5 +19,5 @@ Info, description, date, mood, materials, skills, purpose...
 
 I had a longer lunch break today so I decided to walk outside to the mess hall. Include something that happened today that inspired you to draw.
 
-{% include elements/figure.html image="https://cdn-images-1.medium.com/max/1000/0*MAeS-4fEc0Y7T4VB.jpg" caption="iOS" %}
-{% include elements/figure.html image="https://cdn-images-1.medium.com/max/1000/0*nF_H2-8oTY7C0a54.png" caption="Android" %}
+{% include elements/figure.html image="/images/lion_sketch.png" caption="Close Up" %}
+{% include elements/figure.html image="/images/lion_sketch.png" caption="Pencil Drawing" %}
