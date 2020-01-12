@@ -6,9 +6,9 @@ color: success
 description: Everyday I will practice drawing on paper. Usually pencils or ink pens are used but occasionally you will see watercolor or mixed media.
 ---
 
-Source: [Link](/images/lion-sketch.png)
+Source: [Link](/images/lion_sketch.png)
 
-[Image](/images/lion-sketch.png)
+[Image](/images/lion_sketch.png)
 
 
 ## 1. Information about the drawing
