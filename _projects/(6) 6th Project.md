@@ -3,10 +3,13 @@ name: Parallax in CodePen
 tools: [html, css, javascript]
 image: https://screenshot.codepen.io/3193076.VOBgVK.ce814a1f-48b8-4f35-9b47-caa95155689c.png
 description: A parallax effect featured in a single showcase page.
-external_url: https://codepen.io/lmldvd/pen/VOBgVK
 ---
 
 ## Parallax!
+
+{% include elements/figure.html image="https://screenshot.codepen.io/3193076.VOBgVK.c4d31bb4-1002-40c1-bb0a-853671394c78.png" caption="Parallax Effect" %}
+
+[Link to Parallax in CodePen](https://codepen.io/lmldvd/pen/VOBgVK)
 
 Since the first time I saw this effect I have tried to replicate it using minimalist methods. Use less because it is more :smile:
 
