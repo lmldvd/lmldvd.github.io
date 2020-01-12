@@ -1,0 +1,23 @@
+- name: Graphic Design
+  percentage: 80
+  color: info
+
+- name: Illustration
+  percentage: 95
+  color: success
+
+-name: Desktop Publishing
+ percentage: 85
+ color: secondary
+
+-name: Video Editing
+ color: light
+
+-name: English/Spanish Translations
+ percentage: 95
+ color: dark
+
+-name: 2D Animation
+ percentage:
+ color: light
+ 

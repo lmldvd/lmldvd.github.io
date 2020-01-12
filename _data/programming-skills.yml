@@ -1,0 +1,14 @@
+- name: HTML5/CSS3
+  percentage: 85
+  color: success
+
+- name: Javascript
+  color: info
+
+- name: GitHub
+  percentage: 70
+  color: dark
+
+- name: Jekyll
+  percentage: 70
+  color: dark
