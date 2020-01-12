@@ -13,9 +13,10 @@ Here you can preview a phone wallpaper I made. I used adobe illustrator and phot
 ## Showcase
 
 {% capture carousel_images %}
-"images/chaos-wp-show-1.png"
-"images/chaos-wp-show-2.png"
-"images/chaos-wp-show-3.png"
+https://i.postimg.cc/xjvn9SQc/chaos-wallpaper.png
+https://i.postimg.cc/XYz0sjfD/chaos-wp-show-1.png
+https://i.postimg.cc/d0ZcXbnQ/chaos-wp-show-2.png
+https://i.postimg.cc/wjvp5ymm/chaos-wp-show-3.png
 {% endcapture %}
 
 {% include elements/carousel.html %}
