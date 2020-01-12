@@ -29,9 +29,6 @@ From what I read on the tutorial, this page is using the Jekyll platform. Most w
 
 Here is what the main page looks like today, in the year of our lord 2020. This screenshot _will change_:
 
-![Screenshot of the main page](https://i.ibb.co/hf5nhmM/Annotation-2020-01-06-141745.png) 
-
-![Screenshot of the main page version 1](https://i.ibb.co/RBddSGB/Screen-Shot-2020-01-12-at-11-43-01-AM.png)
 
 Illustration 1 | Illustration 2
 ------------ | -------------
@@ -44,7 +41,7 @@ Illustration 1 | Illustration 2
 Like a portfolio site, I can show my work online, including contact information for everyone.
 
 ### ToDo
-Add a way to make the site easier accessibility-wise. I got plans to include a dark/light mode toggle using as few code as possible. 
+Add a way to make the site easier accessibility-wise. I got plans to include a dark/light mode toggle using as few code as possible.
 
 Keep learning!
 
@@ -52,7 +49,7 @@ Keep learning!
 Working and everchanging.
 
 ## :star: Sources
-There are a bunch of online resources and reference and there are also articles used as a starting point to get this document written and to figure out how to make this work. 
+There are a bunch of online resources and reference and there are also articles used as a starting point to get this document written and to figure out how to make this work.
 1. [FreeCodeCamp](https://freecodecamp.org)
 2. [Bulldog's Guide to Writing a ReadMe document](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 3. [CodePen](https://codepen.io)
