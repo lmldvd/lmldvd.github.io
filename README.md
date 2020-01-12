@@ -15,14 +15,13 @@ From what I read on the tutorial, this page is using the Jekyll platform. Most w
 
 ## :scroll: Table of contents
 
-* About
 * Title and Welcome
-* Content Blocks
-  *   Post
-  *   Image, Project and titles
-  *   Descriptions
-
-* Contact Information
+* Links and Social
+* Menu
+  *   About Me, Skills, CV
+  *   Projects
+  *   Blog
+  *   More
 * Copyright info/Github link
 * Template and Author of template
 
@@ -31,11 +30,16 @@ From what I read on the tutorial, this page is using the Jekyll platform. Most w
 Here is what the main page looks like today, in the year of our lord 2020. This screenshot _will change_:
 
 ![Screenshot of the main page](https://i.ibb.co/hf5nhmM/Annotation-2020-01-06-141745.png) 
+![Screenshot of the main page version 1](https://i.ibb.co/RBddSGB/Screen-Shot-2020-01-12-at-11-43-01-AM.png)
 
 ## :mag_right: Scope of functionalities
+
 ### Features
 Like a portfolio site, I can show my work online, including contact information for everyone.
+
 ### ToDo
+Add a way to make the site easier accessibility-wise. I got plans to include a dark/light mode toggle using as few code as possible. 
+
 Keep learning!
 
 ## :running: Status
@@ -48,6 +52,7 @@ There are a bunch of online resources and reference and there are also articles 
 3. [CodePen](https://codepen.io)
 4. [Github Guides](https://guides.github.com)
 5. [Guide to Pages and Jekyll by JMCGLONE](http://jmcglone.com/guides/github-pages/)
+6. [portfolYOU](https://youssefraafatnasry.github.io/portfolYOU/docs/)
 
 ## :sparkles: More Info
 Not really much to add here because there isn't any social media sites used. More to come...
