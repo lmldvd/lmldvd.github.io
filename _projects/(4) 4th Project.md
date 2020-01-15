@@ -19,6 +19,3 @@ https://i.ibb.co/GPpjLFk/fcc-portfolio-3.png
 
 {% include elements/carousel.html %}
 
-<a href="https://ibb.co/CVptDhf"><img src="https://i.ibb.co/dkscxGR/fcc-portfolio-1.png" alt="fcc-portfolio-1" border="0"></a>
-<a href="https://ibb.co/hgTbQdQ"><img src="https://i.ibb.co/j8jm0w0/fcc-portfolio-2.png" alt="fcc-portfolio-2" border="0"></a>
-<a href="https://ibb.co/pXwp8nZ"><img src="https://i.ibb.co/GPpjLFk/fcc-portfolio-3.png" alt="fcc-portfolio-3" border="0"></a>
