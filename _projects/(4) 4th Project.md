@@ -12,9 +12,13 @@ A Portfolio page sampling the work of a fictional character. In this page naviga
 [Link to Portfolio in CodePen](https://codepen.io/lmldvd/pen/GaELbp)
 
 {% capture carousel_images %}
-images/fcc-portfolio-1.png
-images/fcc-portfolio-2.png
-images/fcc-portfolio-3.png
+https://i.ibb.co/dkscxGR/fcc-portfolio-1.png
+https://i.ibb.co/j8jm0w0/fcc-portfolio-2.png
+https://i.ibb.co/GPpjLFk/fcc-portfolio-3.png
 {% endcapture %}
 
 {% include elements/carousel.html %}
+
+<a href="https://ibb.co/CVptDhf"><img src="https://i.ibb.co/dkscxGR/fcc-portfolio-1.png" alt="fcc-portfolio-1" border="0"></a>
+<a href="https://ibb.co/hgTbQdQ"><img src="https://i.ibb.co/j8jm0w0/fcc-portfolio-2.png" alt="fcc-portfolio-2" border="0"></a>
+<a href="https://ibb.co/pXwp8nZ"><img src="https://i.ibb.co/GPpjLFk/fcc-portfolio-3.png" alt="fcc-portfolio-3" border="0"></a>
