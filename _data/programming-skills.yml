@@ -7,7 +7,7 @@
 
 - name: GitHub
   percentage: 70
-  color: dark
+  color: primary
 
 - name: Jekyll
   color: light
