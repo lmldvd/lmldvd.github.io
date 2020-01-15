@@ -4,7 +4,7 @@
 
 - name: Illustration
   percentage: 95
-  color: success
+  color: danger
 
 - name: Desktop Publishing
   percentage: 85
@@ -12,12 +12,16 @@
 
 - name: Video Editing
   percentage: 50
-  color: light
+  color: primary
 
 - name: English/Spanish Translations
   percentage: 95
-  color: dark
+  color: warning
 
 - name: 2D Animation
   percentage: 50
-  color: light
+  color: secondary
+  
+- name: Prototyping (Invision, Sketch)
+  percentage: 72
+  color: success
