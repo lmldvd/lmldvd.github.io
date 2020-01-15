@@ -3,6 +3,7 @@
   color: success
 
 - name: Javascript
+  percentage: 25
   color: light
 
 - name: GitHub
@@ -10,4 +11,5 @@
   color: primary
 
 - name: Jekyll
+  percentage: 25
   color: light
