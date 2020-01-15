@@ -11,7 +11,7 @@ The Technical Documentation Page is something like a **Wiki**. In it I can show 
 
 ![technical documentation page](https://screenshot.codepen.io/3193076.rgjOjp.c84e2ded-3ab3-4024-aed7-186b49b46fd4.png "screenshot of the technical document page project on codepen")
 
-[Technical Documentation Page in CodePen]https://codepen.io/lmldvd/pen/rgjOjp
+[Technical Documentation Page in CodePen](https://codepen.io/lmldvd/pen/rgjOjp)
 
 ## Basics of CSS coding
 
