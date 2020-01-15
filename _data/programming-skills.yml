@@ -3,7 +3,6 @@
   color: success
 
 - name: Javascript
-
   color: light
 
 - name: GitHub
@@ -11,5 +10,4 @@
   color: dark
 
 - name: Jekyll
-  
   color: light
