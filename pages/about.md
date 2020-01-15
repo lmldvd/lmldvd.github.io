@@ -7,7 +7,7 @@ weight: 3
 
 # About Me
 
-Hi, I am **Lucienne** :v:,<br>
+Hi, I am **Lucienne** :v:<br>
 I'm an illustrator based in Atlanta, where I work as a visual information specialist. The illustration approach to the work I create is heavily inspired by cinema, role-playing games, cosmic themes, minimalist and environmentally-conscious spaces.
 
 I graduated in 2009 with a bachelor of science (bs) in Illustration. It is fascinating to me how media arts and coding can come together to deliver an amazing piece.
