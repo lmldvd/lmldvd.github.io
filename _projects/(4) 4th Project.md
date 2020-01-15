@@ -9,7 +9,7 @@ description: A minimalist portfolio design
 
 A Portfolio page sampling the work of a fictional character. In this page navigation is used so that it is easier to stay within the page. Pictures and links in a compact layout put the artist front and center. This a project in the Free Code Camp curriculum for HTML/CSS and Responsive Design.
 
-[Link to Portfolio in CodePen]https://codepen.io/lmldvd/pen/GaELbp
+[Link to Portfolio in CodePen](https://codepen.io/lmldvd/pen/GaELbp)
 
 {% capture carousel_images %}
 images/fcc-portfolio-1.png

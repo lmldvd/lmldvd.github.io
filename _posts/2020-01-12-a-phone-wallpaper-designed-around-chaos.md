@@ -13,10 +13,16 @@ Here you can preview a phone wallpaper I made. I used adobe illustrator and phot
 ## Showcase
 
 {% capture carousel_images %}
-https://i.postimg.cc/xjvn9SQc/chaos-wallpaper.png
-https://i.postimg.cc/XYz0sjfD/chaos-wp-show-1.png
-https://i.postimg.cc/d0ZcXbnQ/chaos-wp-show-2.png
-https://i.postimg.cc/wjvp5ymm/chaos-wp-show-3.png
+https://i.ibb.co/nj3J1RQ/chaos-wallpaper.png
+https://i.ibb.co/zF1SqrD/chaos-wp-show-2.png
+https://i.ibb.co/S76qQm1/chaos-wp-show-1.png
+https://i.ibb.co/LCgLRKg/chaos-wp-show-3.png
 {% endcapture %}
 
 {% include elements/carousel.html %}
+
+
+<a href="https://ibb.co/BB4M6wT"><img src="https://i.ibb.co/nj3J1RQ/chaos-wallpaper.png" alt="chaos-wallpaper" border="0"></a>
+<a href="https://ibb.co/Dg13GM6"><img src="https://i.ibb.co/S76qQm1/chaos-wp-show-1.png" alt="chaos-wp-show-1" border="0"></a>
+<a href="https://ibb.co/W0Qcm6j"><img src="https://i.ibb.co/zF1SqrD/chaos-wp-show-2.png" alt="chaos-wp-show-2" border="0"></a>
+<a href="https://ibb.co/brvSmtv"><img src="https://i.ibb.co/LCgLRKg/chaos-wp-show-3.png" alt="chaos-wp-show-3" border="0"></a>

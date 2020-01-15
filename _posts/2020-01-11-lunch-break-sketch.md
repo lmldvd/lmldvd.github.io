@@ -6,7 +6,8 @@ color: success
 description: Everyday I will practice drawing on paper. Usually pencils or ink pens are used but occasionally you will see watercolor or mixed media.
 ---
 
-![Lunch break sketch]("images/lion_sketch.png")
+{% include elements/figure.html image="/images/lion_sketch.png" caption="Lion Sketch" %}
+
 
 ## 1. Information about the drawing
 
@@ -18,6 +19,3 @@ I had a longer lunch break today so I decided to walk outside to the mess hall. 
 
 {% include elements/figure.html image="/images/lion_sketch_close.png" caption="Close Up" %}
 {% include elements/figure.html image="/images/lion_sketch_bw.png" caption="Black & white version" %}
-
-Source:
-[Image]("/images/lion_sketch.png")
