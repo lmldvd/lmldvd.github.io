@@ -32,7 +32,7 @@ Here is what the main page looks like today, in the year of our lord 2020. This 
 
 Illustration 1 | Illustration 2
 ------------ | -------------
-![Screenshot of the main page](https://i.ibb.co/hf5nhmM/Annotation-2020-01-06-141745.png) | ![Screenshot of the main page version 1](<a href="https://ibb.co/yygrM3N"><img src="https://i.ibb.co/G2Cq1hd/Annotation-2020-01-17-144310.png" alt="Annotation-2020-01-17-144310" border="0"></a>)
+![Screenshot of the main page](https://i.ibb.co/hf5nhmM/Annotation-2020-01-06-141745.png) | ![Screenshot of the main page version 1](https://i.ibb.co/G2Cq1hd/Annotation-2020-01-17-144310.png)
 
 
 ## :mag_right: Scope of functionalities
