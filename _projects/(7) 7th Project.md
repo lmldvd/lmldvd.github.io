@@ -2,7 +2,7 @@
 name: Astronomy Picture of the Day NASA
 tools: [html, css, design]
 image: https://i.ibb.co/0rwPSzS/APOD-Page-Preview-1.png
-description: APOD NASA makeover Project.
+description: APOD NASA Makeover Project.
 ---
 
 ## Astronomy Picture Of the Day NASA
