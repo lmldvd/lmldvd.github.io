@@ -9,9 +9,6 @@ description: Glitch lets you make a simple app online, trying it out with some o
 
 ## 1. Preview the app
 
-
-<iframe src="https://gratis-lord-h07tgf7btm.glitch.me/" style="height:400px;width:600px;"> </iframe> 
-
 <div class="glitch-embed-wrap" style="height: 486px; width: 100%;">
   <iframe
     allow="geolocation; microphone; camera; midi; encrypted-media"
@@ -20,6 +17,7 @@ description: Glitch lets you make a simple app online, trying it out with some o
     style="height: 100%; width: 100%; border: 0;">
   </iframe>
 </div>
+Cool!
 
 [Link](https://gratis-lord-h07tgf7btm.glitch.me/)
 
