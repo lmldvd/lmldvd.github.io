@@ -17,7 +17,12 @@ description: Glitch lets you make a simple app online, trying it out with some o
     style="height: 100%; width: 100%; border: 0;">
   </iframe>
 </div>
+
 Cool!
 
-[Link](https://gratis-lord-h07tgf7btm.glitch.me/)
+I made this quick web page on Glitch to learn more about the platform. It shows an EP mockup and Music Poster design I made. Oxóssi on Gourmet Beats is one of my favorite artists and I wanted to show designs that would compliment their music. 
+
+[This page on Glitch](https://gratis-lord-h07tgf7btm.glitch.me/)
+[Oxóssi](https://soundcloud.com/oxossibeats)
+[Gourmet Beats](https://gourmetbeats.bandcamp.com/music)
 
