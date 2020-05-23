@@ -3,7 +3,7 @@
   color: success
 
 - name: Javascript
-  percentage: 25
+  percentage: 45
   color: light
 
 - name: GitHub
