@@ -30,3 +30,4 @@ Recently, I worked on adding more branding elements including some font options.
 {% include elements/figure.html image="https://i.imgur.com/JDlDi7o.png" caption="A dark font specimen" %}
 {% include elements/figure.html image="https://i.imgur.com/OA7uXhM.png" caption="Another font specimen" %}
 
+The APOD archive contains the largest collection of annotated astronomical images on the internet. This work is something I started to practice my knowledge of web design and it is not sponsored or endorsed by NASA. All the images, logos and photography come from the apod.nasa.gov website. New branding elements and layouts are added by me.
