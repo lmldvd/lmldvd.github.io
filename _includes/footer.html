@@ -16,7 +16,15 @@
 
 
 <!-- Adding a dark mode toggle  !-->
-
+  
+<script>
+  function toggleDarkLight() {
+  var body = document.getElementById("body");
+  var currentClass = body.className;
+  body.className = currentClass == "dark-mode" ? "light-mode" : "dark-mode";
+}
+  </script>
+  
 <button type="button" name="dark_light" onclick="toggleDarkLight()" title="Toggle dark/light mode">Toggle dark mode</button>
 
 
