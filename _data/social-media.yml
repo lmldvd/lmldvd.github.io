@@ -24,7 +24,7 @@ facebook:
 github:
   url   : https://www.github.com/
   icon  : fab fa-github
-  color : 333333
+  color : daa520
 
 gitlab:
   url   : https://www.gitlab.com/
@@ -94,9 +94,9 @@ codepen:
 freecodecamp:
   url   : https://www.freecodecamp.org/
   icon  : fab fa-free-code-camp
-  color : 004e00
+  color : 32cd32
 
 mastodon:
   url   : https://www.mastodon.social/@
   icon  : fab fa-mastodon
-  color : 5a6b73
+  color : 888598
