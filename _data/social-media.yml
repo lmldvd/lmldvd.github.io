@@ -94,9 +94,9 @@ codepen:
 freecodecamp:
   url   : https://www.freecodecamp.org/
   icon  : fab fa-free-code-camp
-  color : 006400
+  color : 004e00
 
 mastodon:
   url   : https://www.mastodon.social/@
   icon  : fab fa-mastodon
-  color : 687590
+  color : 5a6b73
