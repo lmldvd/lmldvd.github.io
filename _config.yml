@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Lucienne M.
 description         : >-                               # >- means to ignore newlines until "url:"
-                      "Hello! :space_invader: Welcome to
+                      "Hello! Welcome to
                       my portfolio"
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
