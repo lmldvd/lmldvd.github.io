@@ -3,7 +3,7 @@ title: Dark Mode Research
 tags: [practice, coding]
 style: border
 color: warning
-description: Dark mode toggles, switches, history of.
+description: Doing some research!
 ---
 
 
@@ -73,12 +73,15 @@ function myFunction() {
 }
 ```
 
+<br>
+
 ___
 I traced the idea behind adding a dark/light toggle back to an interview about Windows Phones:
 > _Dark backgrounds were added to Windows Phone 7 with energy consumption in mind since fully black pixels emit no light on OLED screens._
 Neat.
 ___
 
+<br>
 
 ### Reference
 
