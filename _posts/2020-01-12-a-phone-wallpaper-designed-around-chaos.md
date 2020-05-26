@@ -2,13 +2,13 @@
 title: A Phone Wallpaper Designed Around Chaos
 tags: [graphic design, illustration]
 style: border
-color: primary
+color: success
 description: Showcase for a phone wallpaper.
 ---
 
 Source: [wallpaper](https://ibb.co/LkxCQLH)
 
-Here you can preview a phone wallpaper I made. I used adobe illustrator and photoshop to create it. To create the mockups, I used affinity photo to place the image into the phone artwork or photo. A background was adjusted to fit into the showcase.
+Here you can preview a phone wallpaper I made. I used adobe illustrator and photoshop to create it. To create the mockups, I used affinity photo to place the image into the phone artwork or photo. A background was adjusted to fit into the showcase. You can download a large version, just _right-click on the image_ and select _View image_.
 
 ## Showcase
 
