@@ -25,6 +25,10 @@
     background-color: $primary;
     color: white !important;
   }
+  
+  p {
+    font-size: 22px;
+  }
 
   footer {
     font-size: 10px;
@@ -91,7 +95,7 @@
     background: $light;
     border: 1px solid #ddd;
     color: $dark;
-    font-family: monospace;
+    font-family: 'IBM Plex Mono', monospace;
     font-size: 14px;
     line-height: 20px;
     margin-bottom: 1.6em;
