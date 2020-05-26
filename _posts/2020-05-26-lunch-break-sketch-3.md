@@ -1,6 +1,6 @@
 ---
 title: Lunch Break Sketch 3
-tags: [practice, photos, photo manipulation]
+tags: [practice, drawing, illustration]
 style: fill
 color: secondary
 description: Everyday (or so) I will practice drawing on paper. Usually pencils or ink pens are used but occasionally you will see watercolor or mixed media.
