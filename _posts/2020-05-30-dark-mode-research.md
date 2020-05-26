@@ -3,7 +3,7 @@ title: Dark Mode Research
 tags: [practice, coding]
 style: border
 color: warning
-description: ...
+description: Dark mode toggles, switches, history of.
 ---
 
 
@@ -40,10 +40,12 @@ Personally I like dark mode toggles. Much as I like having choices when using an
 
   _Tinker with my favorite language_ :weary:
   
+  <br>
 
 ### First up is the HTML & CSS:
 
 >With the HTML set with `<body>` element created, style the `<body>` element and create a `.dark-mode` class for toggle.
+
 ```
 body {
   padding: 25px;
@@ -58,9 +60,12 @@ body {
 }
 ```
 
+<br>
+
 ### Then the JS:
 
 >Get the <body> element and toggle between the .dark-mode class.
+
 ```
 function myFunction() {
   var element = document.body;
