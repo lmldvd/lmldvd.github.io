@@ -19,6 +19,12 @@ This is a project that I started with the help of a few HTML/CSS tutorials. I us
 
 {% include elements/figure.html image="https://i.imgur.com/loG137D.png" caption="The original APOD webpage." %}
 
+Ideas & sketches.
+
+{% include elements/figure.html image="https://i.imgur.com/db7bNw5.jpg" caption="Sketch 1" %}
+{% include elements/figure.html image="https://i.imgur.com/IxLpfpX.jpg" caption="Sketch 2" %}
+
+
 A few close ups.
 
 {% include elements/figure.html image="https://i.imgur.com/R9vfnWB.png" caption="APOD NASA Makeover" %}
