@@ -1,13 +1,13 @@
 ---
 name: Parallax in CodePen
 tools: [html, css, javascript]
-image: https://screenshot.codepen.io/3193076.VOBgVK.ce814a1f-48b8-4f35-9b47-caa95155689c.png
+image: https://i.imgur.com/6SFaPyr.png
 description: A parallax effect featured in a single showcase page.
 ---
 
 ## Parallax!
 
-{% include elements/figure.html image="https://screenshot.codepen.io/3193076.VOBgVK.c4d31bb4-1002-40c1-bb0a-853671394c78.png" caption="Parallax Effect" %}
+{% include elements/figure.html image="https://i.imgur.com/YxeSOvy.png" caption="Parallax Effect" %}
 
 [Link to Parallax in CodePen](https://codepen.io/lmldvd/pen/VOBgVK)
 
