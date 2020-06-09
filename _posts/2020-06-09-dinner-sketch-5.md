@@ -6,7 +6,7 @@ color: success
 description: Everyday (or so) I will practice drawing on paper. Usually pencils or ink pens are used but occasionally you will see watercolor or mixed media.
 ---
 
-{% include elements/figure.html image="https://i.imgur.com/TonbwjQ.jpg" caption="Thin Speghetti with Basil Sea Salt" %}
+{% include elements/figure.html image="https://i.imgur.com/TonbwjQ.jpg" caption="Thin Spaghetti with Basil Sea Salt" %}
 
 ## Illustrating (messy) food
 
