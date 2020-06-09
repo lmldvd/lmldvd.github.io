@@ -1,7 +1,7 @@
 ---
 name: Portfolio Project
 tools: [html, css]
-image: https://screenshot.codepen.io/3193076.GaELbp.bafbe3de-68fe-4409-81e7-a2d727d84e08.png
+image: https://i.imgur.com/5N4QhnA.png
 description: A minimalist portfolio design
 ---
 
@@ -12,9 +12,9 @@ A Portfolio page sampling the work of a fictional character. In this page naviga
 [Link to Portfolio in CodePen](https://codepen.io/lmldvd/pen/GaELbp)
 
 {% capture carousel_images %}
-https://i.ibb.co/dkscxGR/fcc-portfolio-1.png
-https://i.ibb.co/j8jm0w0/fcc-portfolio-2.png
-https://i.ibb.co/GPpjLFk/fcc-portfolio-3.png
+https://i.imgur.com/9wE9FTO.png
+https://i.imgur.com/rproIjf.png
+https://i.imgur.com/E7AHAs9.png
 {% endcapture %}
 
 {% include elements/carousel.html %}
