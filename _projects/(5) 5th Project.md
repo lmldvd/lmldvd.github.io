@@ -1,8 +1,8 @@
 ---
 name: Survey Project
 tools: [html, css]
-image: https://screenshot.codepen.io/3193076.xNOOLK.6295d537-2b25-4129-aefd-d32cdd8cc24e.png
-description: A survey form.
+image: https://i.imgur.com/eZ8i4Wy.png
+description: A successful challenge to build a survey form using html & css. 
 external_url: https://codepen.io/lmldvd/pen/xNOOLK
 ---
 
