@@ -17,5 +17,5 @@ The Product Landing is a single page showcase for a product or, in my case a pro
 
 Here are a couple more screenshots of the project.
 
-{% include elements/figure.html image="https://i.imgur.com/oNXt6Jw.png" caption="Page Preview" %}
+{% include elements/figure.html image="https://i.imgur.com/oNXt6Jw.png" caption="Page Preview with Test Results" %}
 {% include elements/figure.html image="https://i.imgur.com/OrrdjjT.png" caption="Pricing Cards" %}
