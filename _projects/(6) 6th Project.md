@@ -7,6 +7,8 @@ description: A parallax effect featured in a single showcase page.
 
 ## Parallax!
 
+<a href="https://imgur.com/2rfMVAE"><img src="https://i.imgur.com/2rfMVAE.gif" title="source: imgur.com" /></a>
+
 {% include elements/figure.html image="https://i.imgur.com/YxeSOvy.png" caption="Parallax Effect" %}
 
 [Link to Parallax in CodePen](https://codepen.io/lmldvd/pen/VOBgVK)
