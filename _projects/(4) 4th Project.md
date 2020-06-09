@@ -12,7 +12,7 @@ A Portfolio page sampling the work of a fictional character. In this page naviga
 [Link to Portfolio in CodePen](https://codepen.io/lmldvd/pen/GaELbp)
 
 {% capture carousel_images %}
-https://i.imgur.com/9wE9FTO.png?1
+https://i.imgur.com/fTAIPFC.png
 https://i.imgur.com/rproIjf.png
 https://i.imgur.com/E7AHAs9.png
 {% endcapture %}
