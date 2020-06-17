@@ -8,5 +8,5 @@ description: Everyday I will practice drawing on paper. Usually pencils or ink p
 
 {% include elements/figure.html image="/images/watercolorbrushesPractice.png" caption="Seconds" %}
 
-Mixed media sketch of a blue pate of wings with celery. Handwritten text on the bottom reads "Hot Wings".
+Mixed media sketch of a blue plate of wings with celery. Handwritten text on the bottom reads "Hot Wings".
 
