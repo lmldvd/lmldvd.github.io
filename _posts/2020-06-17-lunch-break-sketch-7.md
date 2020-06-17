@@ -6,7 +6,7 @@ color: warning
 description: Everyday I will practice drawing on paper. Usually pencils or ink pens are used but occasionally you will see watercolor or mixed media.
 ---
 
-{% include elements/figure.html image="/images/https://i.imgur.com/wzVWKkX.jpg" caption="French Onion Soup" %}
+{% include elements/figure.html image="https://i.imgur.com/wzVWKkX.jpg" caption="French Onion Soup" %}
 
 Mixed media sketch of a dark bowl with soup, bread and cheese.
 
