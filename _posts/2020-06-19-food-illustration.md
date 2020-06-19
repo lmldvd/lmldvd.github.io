@@ -40,14 +40,14 @@ ___
 + Francisco Oller with an image of a feast over the serving of a terrible time of death and famine.
 + Any Studio Ghibli film.
 + Video game concept art for healing items often feature food items such as rations and sometimes whole meals are illustrated.
-+ TV Shows like The Chef Show and The Great British Baking Show.
-___
++ TV Shows like The Chef Show and The Great British Baking Show
+
 
 
 ### References:
 
-+ Libraries  | **https://dekalblibrary.org/** | (https://archive.org)
-+ Food Illustration | (illustrationx.com) | (freevintageillustrations.com)
-+ Creative Commons | (search.creativecommons.org)
++ Libraries  | [Dekalb Library](**https://dekalblibrary.org/**) | [The Internet Archive](**https://archive.org**)
++ Food Illustration | [IllustrationX](illustrationx.com) | [Vintage Illustrations](freevintageillustrations.com)
++ Creative Commons | [Search CC](search.creativecommons.org)
 + Movies | [BWDR](brightwalldarkroom.com)
-+ Art & Illustration | [1](ateriet.com) | [2](artchive.com) | [3](moma.org) | [4](commons.wikimedia.org/) | [5](artnet.com) | [6](artsy.net)
++ Art & Illustration | [Ateriet](ateriet.com) | [Artchive](artchive.com) | [MOMA](moma.org) | [Wikimedia CC](commons.wikimedia.org/) | [Artnet](artnet.com) | [Artsy](artsy.net)
