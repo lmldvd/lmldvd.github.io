@@ -46,8 +46,8 @@ ___
 
 ### References:
 
-+ Libraries  | **[Dekalb Library](https://dekalblibrary.org/)** | **[The Internet Archive](https://archive.org)**
-+ Food Illustration | **[IllustrationX](illustrationx.com) | [Vintage Illustrations](freevintageillustrations.com)**
-+ Creative Commons | **[Search CC](search.creativecommons.org)**
-+ Movies | **[BWDR](brightwalldarkroom.com)**
-+ Art & Illustration | **[Ateriet](ateriet.com) | [Artchive](artchive.com) | [MOMA](moma.org) | [Wikimedia CC](commons.wikimedia.org/) | [Artnet](artnet.com) | [Artsy](artsy.net)**
+Libraries  | **[Dekalb Library](https://dekalblibrary.org/)** | **[The Internet Archive](https://archive.org)**
+Food Illustration | **[IllustrationX](illustrationx.com)** | **[Vintage Illustrations](freevintageillustrations.com)**
+Creative Commons | **[Search CC](search.creativecommons.org)**
+Movies | **[BWDR](brightwalldarkroom.com)**
+Art & Illustration | **[Ateriet](ateriet.com)** | **[Artchive](artchive.com)** | **[MOMA](moma.org)** | **[Wikimedia CC](commons.wikimedia.org/)** | **[Artnet](artnet.com)** | **[Artsy](artsy.net)**
