@@ -39,10 +39,15 @@ ___
 + Horace Pippin whose paintings depicted not so much food but the comfort of a meal... even under great oppression we strive to provide and to heal. 
 + Francisco Oller with an image of a feast over the serving of a terrible time of death and famine.
 + Any Studio Ghibli film.
-+ Video game concept art for healing items often feature food items such as rations but sometimes whole meals are illustrated.
++ Video game concept art for healing items often feature food items such as rations and sometimes whole meals are illustrated.
 + TV Shows like The Chef Show and The Great British Baking Show.
 ___
 
 
-Sources:
+### References:
 
++ Libraries [1] **(https://dekalblibrary.org/)** | [2](https://archive.org)
++ Food Illustration [1](illustrationx.com) | [2](freevintageillustrations.com)
++ Creative Commons [CC](search.creativecommons.org)
++ Movies [BWDR](brightwalldarkroom.com)
++ Art & Illustration [1](ateriet.com) | [2](artchive.com) | [3](moma.org) | [4](commons.wikimedia.org/) | [5](artnet.com) | [6](artsy.net)
