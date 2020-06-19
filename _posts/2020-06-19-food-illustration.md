@@ -20,7 +20,7 @@ https://i0.wp.com/freevintageillustrations.com/wp-content/uploads/2018/01/chocol
 https://i2.wp.com/freevintageillustrations.com/wp-content/uploads/2015/11/public-domain-vintage-color-illustrations-of-food-meat-and-roasts.jpg?ssl=1
 https://i2.wp.com/freevintageillustrations.com/wp-content/uploads/2016/05/big-box-of-fresh-strawberries.jpg?ssl=1
 https://gamepedia.cursecdn.com/reddeadredemption2_gamepedia_en/c/c9/Lamb%27s_Fry.jpg
-https://pbs.twimg.com/media/C4Js8MOUkAAckXy.jpg
+https://i.imgur.com/tg6UUji.png
 http://www.gamersheroes.com/wp-content/uploads/2016/12/Final-Fantasy-XV-Recipes-Foods-That-Boosts-Experience.jpg
 https://i.imgur.com/5WFhIoI.png
 https://i.imgur.com/4zjjXz0.png
@@ -46,8 +46,8 @@ ___
 
 ### References:
 
-+ Libraries [1] **(https://dekalblibrary.org/)** | [2](https://archive.org)
-+ Food Illustration [1](illustrationx.com) | [2](freevintageillustrations.com)
-+ Creative Commons [CC](search.creativecommons.org)
-+ Movies [BWDR](brightwalldarkroom.com)
-+ Art & Illustration [1](ateriet.com) | [2](artchive.com) | [3](moma.org) | [4](commons.wikimedia.org/) | [5](artnet.com) | [6](artsy.net)
++ Libraries  | **https://dekalblibrary.org/** | (https://archive.org)
++ Food Illustration | (illustrationx.com) | (freevintageillustrations.com)
++ Creative Commons | (search.creativecommons.org)
++ Movies | [BWDR](brightwalldarkroom.com)
++ Art & Illustration | [1](ateriet.com) | [2](artchive.com) | [3](moma.org) | [4](commons.wikimedia.org/) | [5](artnet.com) | [6](artsy.net)
