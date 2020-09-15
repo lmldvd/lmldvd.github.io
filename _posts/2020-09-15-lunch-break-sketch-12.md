@@ -8,4 +8,4 @@ description: Everyday I will practice drawing on paper. Usually pencils or ink p
 
 # This tray from school.
 
-{% include elements/figure.html image="https://imgur.com/5Leyw20" caption="Pencil + colored pencil + ink drawing on brown paper" %}
+{% include elements/figure.html image="https://i.imgur.com/5Leyw20.jpg" caption="Pencil + colored pencil + ink drawing on brown paper" %}
