@@ -2,7 +2,7 @@
 title: Dieu Remix
 tags: [ui, practice, design]
 style: fill
-color: warning
+color: primary
 description: Practice design principles by applying an alternative look to an existing layout.
 ---
 
