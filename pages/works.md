@@ -20,3 +20,5 @@ https://raw.githubusercontent.com/lmldvd/lmldvd.github.io/master/images/gd-04.pn
 https://raw.githubusercontent.com/lmldvd/lmldvd.github.io/master/images/gd-11.png
 {% endcapture %}
 {% include elements/carousel.html %}
+
+[Credits](/pages/credits.html)
