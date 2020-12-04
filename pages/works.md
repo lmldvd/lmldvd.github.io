@@ -20,7 +20,6 @@ https://raw.githubusercontent.com/lmldvd/lmldvd.github.io/master/images/ATARI260
 https://raw.githubusercontent.com/lmldvd/lmldvd.github.io/master/images/boceto1.jpg
 https://raw.githubusercontent.com/lmldvd/lmldvd.github.io/master/images/ntitled.png
 https://raw.githubusercontent.com/lmldvd/lmldvd.github.io/master/images/ntitled_ui.png
-https://raw.githubusercontent.com/lmldvd/lmldvd.github.io/master/images/gd-11.png
 
 {% endcapture %}
 {% include elements/carousel.html %}
