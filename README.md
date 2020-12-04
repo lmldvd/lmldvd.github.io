@@ -21,7 +21,7 @@ From what I read on the tutorial, this page is using the Jekyll platform. Most w
   *   About Me, Skills, CV
   *   Coding Projects
   *   Blog
-  *   More
+  *   Works
 * Copyright info/Github link
 * Template and Author of template
 
@@ -56,6 +56,7 @@ There are a bunch of online resources and reference and there are also articles 
 4. [Github Guides](https://guides.github.com)
 5. [Guide to Pages and Jekyll by JMCGLONE](http://jmcglone.com/guides/github-pages/)
 6. [Theme is portfolYOU](https://youssefraafatnasry.github.io/portfolYOU/docs/)
+7. Website checker from Ionos
 
 ## :sparkles: More Info
 Not really much to add here because there isn't any social media sites used. More to come...
