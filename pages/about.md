@@ -29,6 +29,7 @@ My favorite thing to work on now is creating meaningful and user-friendly interf
 
 <div class="row">
   {% include elements/figure.html image="https://raw.githubusercontent.com/lmldvd/lmldvd.github.io/master/images/Responsive-Web-Design-Developer-Certification.png" caption="Responsive Web Design - 300 Hours" %}
+
 [See the certification here](https://www.freecodecamp.org/certification/lmldvd/responsive-web-design)
  
 
