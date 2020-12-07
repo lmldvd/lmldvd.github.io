@@ -19,6 +19,17 @@ My favorite thing to work on now is creating meaningful and user-friendly interf
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
+# My Experience 
+
 <div class="row">
 {% include about/timeline.html %}
 </div>
+
+# Certifications
+
+<div class="row">
+  {% include elements/figure.html image="https://raw.githubusercontent.com/lmldvd/lmldvd.github.io/master/images/Responsive-Web-Design-Developer-Certification.png" caption="Responsive Web Design - 300 Hours" %}
+[See the certification here](https://www.freecodecamp.org/certification/lmldvd/responsive-web-design)
+ 
+
+  </div>
