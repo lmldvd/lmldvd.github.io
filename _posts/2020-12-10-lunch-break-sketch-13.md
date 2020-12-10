@@ -14,3 +14,5 @@ description: Everyday (or so) I will practice drawing on paper. Usually pencils 
 > "It is the impractical things in this tumultuous hellscape of a world that matter most. A book, a name, chicken soup. They help us remember that even in our darkest hour, life is still to be savored." 
 
 > -Poe | Altered Carbon S2.Ep7: Experiment Perilous
+
+.-..  ---  ...-  .     -.--  ---  ..-
