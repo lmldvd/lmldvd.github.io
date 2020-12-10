@@ -2,7 +2,7 @@
 title: Lunch Break Sketch 11
 tags: [drawing, practice, illustration]
 style: fill
-color: warning
+color: danger
 description: Everyday I will practice drawing on paper. Usually pencils or ink pens are used but occasionally you will see watercolor or mixed media.
 ---
 
