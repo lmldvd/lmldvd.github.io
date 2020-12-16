@@ -9,7 +9,9 @@ description: Practice design principles by applying an alternative look to an ex
 [Dieu Neo](https://www.behance.net/gallery/87120911/Dieu-Neo-Website) by Rron Berisha.
 
 # What other things inspired the remix?
-Serif font pairings, trips to the museum, paintings, editorial layouts.
+Serif font pairings, trips to the museum, paintings, editorial layouts. 
+
+What I wanted to accomplish with this exercise is to go back to school. I feel like at times you need to revisit the basics. Many assignments I had back then were similar to this; so you took an existing work and tried to make it yourself and make it as similar to the original as possible. Nowadays in coding I see Remixes and that takes me back to the work I did in school.
 
 # Dieu Remixed.
 
