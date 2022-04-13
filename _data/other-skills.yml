@@ -25,3 +25,11 @@
 - name: Prototyping (Invision, Sketch)
   percentage: 72
   color: success
+
+- name: Section 508 Accessibility
+  percentage: 70
+  color: info
+  
+  - name: Data Visualization
+  percentage: 70
+  color: danger
