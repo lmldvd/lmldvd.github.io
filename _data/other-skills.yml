@@ -29,7 +29,7 @@
 - name: Section 508 Accessibility
   percentage: 70
   color: info
-  
-  - name: Data Visualization
+
+- name: Data Visualization
   percentage: 70
   color: danger
