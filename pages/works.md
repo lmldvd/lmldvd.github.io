@@ -7,10 +7,14 @@ weight: 3
 
 # Works
 
-{% capture carousel_images height="100" unit="%" duration="7" %}
+https://github.com/lmldvd/lmldvd.github.io/blob/master/images/consquences_nictn_addict.png?raw=true
 
+https://github.com/lmldvd/lmldvd.github.io/blob/master/images/ill-05.png?raw=true
 
-{% endcapture %}
-{% include elements/carousel.html %}
+https://github.com/lmldvd/lmldvd.github.io/blob/master/images/lion_sketch.png?raw=true
+
+https://github.com/lmldvd/lmldvd.github.io/blob/master/images/ntitled.png?raw=true
+
+https://github.com/lmldvd/lmldvd.github.io/blob/master/images/obj_oxossi_mock_ep.png?raw=true
 
 [Credits](/pages/credits.html)
