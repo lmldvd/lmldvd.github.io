@@ -16,3 +16,6 @@ description: Showcase of illustration work.
 {% include elements/figure.html image="https://github.com/lmldvd/lmldvd.github.io/blob/master/images/ntitled.png?raw=true" caption="Lettering"  %}
 
 {% include elements/figure.html image="https://github.com/lmldvd/lmldvd.github.io/blob/master/images/obj_oxossi_mock_ep.png?raw=true" caption="Editorial" %}
+
+{% include elements/figure.html image="https://github.com/lmldvd/lmldvd.github.io/blob/master/images/IMG_0647.jpeg?raw=true" caption="Background Painting" %}
+
