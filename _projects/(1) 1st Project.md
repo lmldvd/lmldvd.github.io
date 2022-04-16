@@ -1,21 +1,18 @@
 ---
-name: Product Landing Web Design Project
-tools: [html5, css3, pencil, paper]
+name: Illustrations
+tools: [pencil, paper, digital]
 style: fill
-color: success
-image: https://i.imgur.com/MpDLCqw.png
-description: A Product Landing Page that features product intro, description and pricing details. This a project in the Free Code Camp curriculum for HTML/CSS and Responsive Design. This product is fake and none of the names or links are real.
+color: warning
+image: https://github.com/lmldvd/lmldvd.github.io/blob/master/images/ill-05.png?raw=true
+description: Showcase of illustration work.
 ---
 
-# Product Landing Page
+# Illustrations
 
-The Product Landing is a single page showcase for a product or, in my case a profession. In it I can show a responsive layout, linking images, anchors and photos that describe what the offerings are. Near the bottom there's also a few pricing structures lai out in cards.
+{% include elements/figure.html image="https://github.com/lmldvd/lmldvd.github.io/blob/master/images/illoX.png?raw=true" caption="Editorial" %}
 
-![technical documentation page](https://i.imgur.com/SYVNzeP.png "screenshot of the product landing page project on codepen")
+{% include elements/figure.html image="https://github.com/lmldvd/lmldvd.github.io/blob/master/images/lion_sketch.png?raw=true" caption="Character" %}
 
-[Product Landing Page in CodePen](https://codepen.io/lmldvd/pen/YbWgPz)
+{% include elements/figure.html image="https://github.com/lmldvd/lmldvd.github.io/blob/master/images/ntitled.png?raw=true" caption="Lettering"  %}
 
-Here are a couple more screenshots of the project.
-
-{% include elements/figure.html image="https://i.imgur.com/oNXt6Jw.png" caption="Page Preview with Test Results" %}
-{% include elements/figure.html image="https://i.imgur.com/OrrdjjT.png" caption="Pricing Cards" %}
+{% include elements/figure.html image="https://github.com/lmldvd/lmldvd.github.io/blob/master/images/obj_oxossi_mock_ep.png?raw=true" caption="Editorial" %}
