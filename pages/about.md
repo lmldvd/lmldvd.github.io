@@ -33,7 +33,7 @@ My favorite thing to work on now is creating meaningful and user-friendly interf
 [See the certification here](https://www.freecodecamp.org/certification/lmldvd/responsive-web-design)
 
 <div class="row">
-  {% include elements/figure.html image="images/visual-analytics-certificate-3-ceu-lucienne-lopez.jpg" caption="Visual Analytics" %}
+  {% include elements/figure.html image="https://github.com/lmldvd/lmldvd.github.io/blob/9aa2e6b1c7dcab505003e712b7449b78fd270ab0/images/visual-analytics-certificate-3-ceu-lucienne-lopez.jpg" caption="Visual Analytics" %}
  </div>
  
 
