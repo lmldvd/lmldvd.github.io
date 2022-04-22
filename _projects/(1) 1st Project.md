@@ -9,7 +9,7 @@ description: Showcase of illustration work.
 
 # Illustrations
 
-{% include elements/figure.html image="https://github.com/lmldvd/lmldvd.github.io/blob/master/images/illoX.png?raw=true" caption="Editorial illustrations" %}
+{% include elements/figure.html alt-text="A painting in color simulates acrylic painting, the subject is a human figure who is wearing a black jacket and black pants, they have white vapors in front of their face. The face is distorted, looks spectral and covered in rainbow oily film." image="https://github.com/lmldvd/lmldvd.github.io/blob/master/images/illoX.png?raw=true" caption="Editorial illustrations" %}
 
 {% include elements/figure.html image="https://github.com/lmldvd/lmldvd.github.io/blob/master/images/lion_sketch.png?raw=true" caption="Character concepts" %}
 
