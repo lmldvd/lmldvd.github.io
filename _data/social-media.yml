@@ -97,6 +97,6 @@ freecodecamp:
   color : 32cd32
 
 mastodon:
-  url   : <a rel="me" href="https://mastodon.social/@lmldvd">Mastodon</a>
+  url   : rel="me" href="https://mastodon.social/@lmldvd"
   icon  : fab fa-mastodon
   color : 888598
