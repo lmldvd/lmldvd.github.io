@@ -36,5 +36,9 @@ My favorite thing to work on now is creating meaningful and user-friendly interf
   {% include elements/figure.html image="https://raw.githubusercontent.com/lmldvd/lmldvd.github.io/9aa2e6b1c7dcab505003e712b7449b78fd270ab0/images/visual-analytics-certificate-3-ceu-lucienne-lopez.jpg" caption="Visual Analytics Certificate. Certificate of Achievement to Lucienne Lopez for completing the Visual Analytics class demonstrating mastery of skills for understanding and creating data visualizations." %}
  </div>
  
+ <div>
+  <a rel="me" href="https://mastodon.social/@lmldvd">Mastodon</a>
+  </div>
+ 
 
  
