@@ -37,7 +37,7 @@ My favorite thing to work on now is creating meaningful and user-friendly interf
  </div>
  
  <div>
-  <a rel="me" href="https://mastodon.social/@lmldvd">Mastodon</a>
+  <a rel="me" href="https://mastodon.social/@lmldvd">Check out more about me on Mastodon.</a>
   </div>
  
 
