@@ -13,7 +13,3 @@
 - name: Jekyll
   percentage: 25
   color: light
-  
-  - name: Python
-  percentage: 45
-  color: success
