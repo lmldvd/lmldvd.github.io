@@ -14,6 +14,6 @@
   percentage: 25
   color: light
   
-  - name: Python [pandas]
+  - name: pandas with Python
   percentage: 12
   color: success
