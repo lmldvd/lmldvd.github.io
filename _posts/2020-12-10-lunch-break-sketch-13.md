@@ -10,6 +10,7 @@ description: Everyday (or so) I will practice drawing on paper. Usually pencils 
 
 ## 1. Information about the work
 
+Image description: a sketch in black ink pen of an intimate room, it has a window and next to it a full bookcase, with an ornate chair in the middle of the scene.
 
 > "It is the impractical things in this tumultuous hellscape of a world that matter most. A book, a name, chicken soup. They help us remember that even in our darkest hour, life is still to be savored." 
 
