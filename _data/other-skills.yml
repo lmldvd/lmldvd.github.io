@@ -1,17 +1,17 @@
 - name: Graphic Design
-  percentage: 80
+  percentage: 100
   color: info
 
 - name: Illustration
-  percentage: 95
+  percentage: 100
   color: danger
 
 - name: Desktop Publishing
-  percentage: 85
+  percentage: 100
   color: secondary
 
 - name: Video Editing
-  percentage: 68
+  percentage: 73
   color: primary
 
 - name: English/Spanish Translations
@@ -19,7 +19,7 @@
   color: warning
 
 - name: 2D Animation
-  percentage: 50
+  percentage: 52
   color: secondary
   
 - name: Prototyping (Invision, Sketch)
@@ -27,9 +27,9 @@
   color: success
 
 - name: Section 508 Accessibility
-  percentage: 70
+  percentage: 80
   color: info
 
 - name: Data Visualization
-  percentage: 70
+  percentage: 80
   color: danger
