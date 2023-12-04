@@ -2,13 +2,13 @@
 
 // Custom Fonts
 @import url('_sass/Compita-Regular.otf')
-@import url('https://fonts.googleapis.com/css?family=Poppins|IBM+Plex+Sans|IBM+Plex+Serif|Work+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&display=swap');
+//@import url('https://fonts.googleapis.com/css?family=Poppins|IBM+Plex+Sans|IBM+Plex+Serif|Work+Sans&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&display=swap');
 
 // example: 
 // font-family: 'Ibarra Real Nova', serif;
-
+font-family: 'Compita Regular', serif
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "variables",
         "404",
