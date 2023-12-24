@@ -1,6 +1,11 @@
 # Get Icons  from : https://fontawesome.com/icons
 # Get Colors from : https://brandcolors.net/
 
+wordpress:
+  url: :https://wordpress.com/
+  icon : fab fa-wordpress
+  color: 444444
+
 behance:
   url   : https://www.behance.net/
   icon  : fab fa-behance
