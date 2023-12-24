@@ -4,7 +4,7 @@
 wordpress:
   url: :https://wordpress.com/
   icon : fab fa-wordpress
-  color: 444444
+  color: ae63e4
 
 behance:
   url   : https://www.behance.net/
